@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\serpi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\serpi\\.nuget\\packages"
+    ]
+  }
+}
